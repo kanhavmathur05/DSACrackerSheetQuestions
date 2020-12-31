@@ -1,3 +1,5 @@
+package arrayQuestions;
+
 public class ArrayQ2 {
     public int minimum(int number[]) {
         int min = number[0], temp;

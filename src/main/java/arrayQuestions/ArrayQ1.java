@@ -1,3 +1,5 @@
+package arrayQuestions;
+
 public class ArrayQ1 {
     public int[] reverseList(int arrayList[]) {
         int temp, end = arrayList.length - 1;
